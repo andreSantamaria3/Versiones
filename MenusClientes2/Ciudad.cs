@@ -12,6 +12,7 @@ namespace MenusClientes2
         //Atributos
         int idCiudad;
         string nombreCiudad;
+        string nombreCapital;
 
         //Constructores
         public Ciudad()
