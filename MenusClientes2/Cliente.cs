@@ -13,6 +13,7 @@ namespace MenusClientes2
         string direccion;
         Afiliacion afiliacion;
         Ciudad ciudad;
+        //Holaaaaaa
 
         //Constructores
         public Cliente(string iniId, string iniNombre, string iniApellido, string iniCedula, string iniGenero, string iniDireccion, Afiliacion iniAfiliacion, Ciudad iniCiudad) : base(iniId, iniNombre, iniApellido, iniCedula, iniGenero)
