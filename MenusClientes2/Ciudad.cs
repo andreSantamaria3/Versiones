@@ -13,6 +13,7 @@ namespace MenusClientes2
         int idCiudad;
         string nombreCiudad;
         string nombreCapital;
+        Boolean capital;
 
         //Constructores
         public Ciudad()
