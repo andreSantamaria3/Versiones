@@ -8,7 +8,8 @@ namespace MenusClientes2
 {
     public class Cliente: Persona
     {
-
+        int edad;
+        string prueba;
         string direccion;
         Afiliacion afiliacion;
         Ciudad ciudad;
